@@ -7,3 +7,4 @@ sindresorhus
 tj
 JakeWharton
 fabpot
+egoist
